@@ -1,6 +1,7 @@
 .venv/
 __pycache__/
 *.pyc
+.env
 
 logs/
 live_audio/
